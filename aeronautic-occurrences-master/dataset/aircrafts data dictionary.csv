@@ -1,0 +1,24 @@
+Data Dictionary;
+Aircrafts file;
+Column's name;Comment
+aircraft_id;Aicraft's identification number
+occurrence_id;Occurrence's identification number
+registration;Aircraft's registration number
+operator_id;Operator's identification number
+equipment;Type of aircraft
+manufacturer;Aircraft's manufacturer
+model;Aircraft's model
+engine_type;Type of engine
+takeoff_max_weight (Lbs);Maximum weight for the takeoff
+seatings_amount;Quantity of seatings available
+year_manufacture;Aircraft's year of fabrication
+registration_country;Country where the aircraft was registered
+registration_category;Aircraft's registration category at the moment of the occurrence
+registration_aviation;Aircraft's aviation category at the moment of the occurrence
+origin_flight;Where did the aircraft come from?
+destination_flight;Where would the aircraft go to?
+operation_phase;Operation phase at the moment of the occurrence
+type_operation;Type of operation at the moment of the occurrence
+damage_level;Damage level in the aircraft
+fatalities_amount;Quantity of fatalities (deaths) occurred
+extraction_day;Day of aircraft extraction

@@ -1,0 +1,21 @@
+Data Dictionary;
+Occurrences file;
+Column's name;Comment
+occurrence_id;Occurrence's identification number
+classification;Occurrence classification
+type of occurrence;Type of occurrence
+localization;City where the occurrence happened
+fu;State where the occurrence happened
+country;Country where the occurrence happened
+aerodrome;Aerodrome's ICOA code
+occurrence_day;Occurrence date
+time;Time of the occurrence (UTC)
+under_investigation;Will the occurrence be investigated?
+investigating_command;Investigation command responsible for the occurrence investigation
+investigation_status;Status of the investigation
+report_number;Final report's identification number
+published_report;Was the report published?
+publication_day;Publication day of the report
+recommendation_amount;Security recommendation quantity emitted
+aircrafts_involved;Quantity of aircrafts involved in the occurrence
+extraction_day;day of the aircraft extraction
